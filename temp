@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+    body {
+        background-color: #9ec3ff;
+    }
+
+    h1 {
+        color: #4c90ff;
+        font-family: arial;
+        font-size: 100px;
+    }
+
+    p {
+        font-family: arial;
+        font-size: 20px;
+        margin: .5cm 3cm .5cm 3cm;
+}
+    </style>
+  </head>
+
+  <body>
+    <h1>adam freilich</h1>
+  </body>
+
+</html>
+
